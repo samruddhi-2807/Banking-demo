@@ -1,4 +1,4 @@
 # Banking-demo
 Banking repository
 <br>
-Author - Samruddhi Thakare
+Author - Samruddhi Thakare(Banking)
